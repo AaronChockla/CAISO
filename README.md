@@ -10,8 +10,8 @@ California leads the nation in adoption of renewable forms of power generation. 
 * By when will these storage assets need to be deployed to the grid in California?
 
 ## Project Files
-* **\*.Demand csv files** contain power demand data in the CAISO system for each month from July 2018 through June 2019.
-* **\*.Renewables csv files** contain power generation from renewable energy resources (wind and solar) in the CAISO system for each month from July 2018 through June 2019.
+* **Demand zip files** contain monthly csv files for power demand data in the CAISO system for each month from July 2018 through June 2019.
+* **Renewables zip file** contains monthly csv files for power generation from renewable energy resources (wind and solar) in the CAISO system for each month from July 2018 through June 2019.
 * **Results.csv** contains a cleaned dataset from processing the \*.Demand.csv and \*.Renewables.csv files and determining how much energy needs to be shifted and for how long.
 * **CAISO.ipynb** python notebook for processing and analyzing CAISO data.
 * **CAISO data.html** contains an html version of the python notebook.
