@@ -25,9 +25,12 @@ California leads the nation in adoption of renewable forms of power generation. 
 
 ## Summary of Analysis
 **1.** The optimal mix of renewables is ~30% solar and 70% wind in the scenario when 100% of demand must come from renewables.
-**1.** Storage won't really be needed until renewable penetration reaches ~35%; for the 100% renewable scenario, about 50 terawatt hours (TWh) of energy will need to be shifted.
-**1.** The duration of energy storage is tied to the amount of renewable generation - the more generation required to come from renewables sources, the longer energy needs to be stored.
-**1.** A mix of storage duration assets will be needed between now and 2030, but most of the required storage capacity won't be needed until between 2030 and 2045.
+
+**2.** Storage won't really be needed until renewable penetration reaches ~35%; for the 100% renewable scenario, about 50 terawatt hours (TWh) of energy will need to be shifted.
+
+**3.** The duration of energy storage is tied to the amount of renewable generation - the more generation required to come from renewables sources, the longer energy needs to be stored.
+
+**4.** A mix of storage duration assets will be needed between now and 2030, but most of the required storage capacity won't be needed until between 2030 and 2045.
 
 ## Acknowledgement
 * CAISO for making these data publicly available along
